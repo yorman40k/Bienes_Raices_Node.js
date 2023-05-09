@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/yorman40k/Bienes_Raices_Node.js/issues"
   },
-  "homepage": "https://github.com/yorman40k/Bienes_Raices_Node.js#readme"
+  "homepage": "https://github.com/yorman40k/Bienes_Raices_Node.js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
